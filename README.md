@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Carlos Castro
 
-### 👨‍💻 Coder en Riwi | Apasionado por el diseño
+### 👨‍💻 BPO+AI AUT IN Riwi | Apasionado por el diseño
 
 Me enfoco en crear interfaces limpias, modernas y funcionales. Actualmente estoy profundizando mi dominio en el ecosistema de desarrollo web, con especial énfasis en la estructura y el estilo.
 
